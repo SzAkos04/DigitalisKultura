@@ -1,0 +1,9 @@
+﻿	Szélesség	Hosszúság
+Indulás	46,400683	17,817213
+Érkezés	46,353934	17,795777
+		
+Távolság
+Felszállás
+Járat
+Leszállás
+Távolság

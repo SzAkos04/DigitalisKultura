@@ -1,0 +1,16 @@
+Irány (fok)
+Égtáj
+Égtájváltás
+Égtájak
+Előfordulások száma
+É
+K
+D
+Ny
+Legtöbbször ezen égtáj felé repült:
+Legnagyobb elért magasság (cm):
+Égtájváltások aránya:
+Pozitív / negatív / nulla elfordulások száma:
+Repülési magasság változása
+Magasság (cm)
+Idő (mp)

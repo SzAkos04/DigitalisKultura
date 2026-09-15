@@ -1,0 +1,221 @@
+﻿Járat	Megálló	Szélesség	Hosszúság
+45	67-es sz. út	46,351169	17,782722
+40	67-es sz. út	46,35069	17,781893
+12	Arany János tér	46,366564	17,788472
+20	Arany János tér	46,366851	17,788362
+44	Arany János tér	46,367595	17,790237
+46	Aranyeső utca	46,337686	17,790371
+42	Aranyeső utca	46,337414	17,790639
+90	Ballakúti utca	46,342177	17,799177
+51	Ballakúti utca	46,341425	17,800224
+61	Baross Gábor utca	46,352844	17,803306
+46	Bartók Béla utca	46,351486	17,790431
+41	Bartók Béla utca	46,351464	17,790549
+13	Berzsenyi Dániel utca 30.	46,360216	17,783917
+32	Berzsenyi Dániel utca 30.	46,359012	17,783952
+32	Kaposvár Pláza	46,355325	17,784656
+31	Kaposvár Pláza	46,355442	17,784853
+31	Beszédes József utca	46,341851	17,763235
+33	Beszédes József utca	46,342035	17,763298
+12	Brassó utca	46,372092	17,787416
+43	Buzsáki utca	46,367947	17,792332
+44	Buzsáki utca	46,367884	17,792376
+61	Béla király utca	46,34833	17,815061
+12	Búzavirág utca	46,375818	17,781883
+20	Búzavirág utca	46,374772	17,781888
+12	Corso Bevásárlóközpont	46,355236	17,78603
+61	Csalogány utca	46,351159	17,808597
+26	Dombóvári út 4.	46,363917	17,833678
+31	Eger utca	46,348413	17,767931
+13	Eger utca	46,348264	17,768146
+31	Egyenesi út 42.	46,345196	17,763225
+33	Egyenesi út 42.	46,345319	17,763351
+31	Egyenesi út, forduló	46,338997	17,763486
+45	Erdősor utca	46,345701	17,773949
+46	Fenyves utca 31.	46,306013	17,783388
+42	Fenyves utca 31.	46,306064	17,78343
+46	Fenyves utca 37/A	46,307643	17,782963
+42	Fenyves utca 37/A	46,307718	17,783006
+74	Fő utca 37-39.	46,356767	17,795418
+71	Fő utca 48.	46,356771	17,798155
+13	Füredi utcai csomópont	46,363758	17,781454
+32	Füredi utcai csomópont	46,363152	17,782524
+20	Füredi utcai csomópont	46,364552	17,782422
+21	Füredi utcai csomópont	46,363937	17,783325
+23	Guba Sándor utca 57.	46,368619	17,817311
+23	Guba Sándor utca 81.	46,373627	17,821302
+46	Gyertyános	46,330307	17,78938
+42	Gyertyános	46,330198	17,789529
+27	Gyár utca	46,356703	17,815208
+74	Gyár utca	46,356991	17,814507
+40	Gönczi Ferenc utca	46,344756	17,774575
+40	Hajnóczy utcai csomópont	46,366722	17,765329
+20	Hajnóczy utcai csomópont	46,366734	17,765126
+13	Hajnóczy utcai csomópont	46,366091	17,763716
+32	Hajnóczy utcai csomópont	46,365565	17,76592
+46	Harangvirág utca	46,334786	17,790031
+42	Harangvirág utca	46,334835	17,790103
+91	Hegyi utca	46,367663	17,797871
+72	Hold utca	46,346367	17,834634
+12	Honvéd utca	46,363155	17,787996
+71	Hársfa utca	46,357181	17,80208
+74	Hársfa utca	46,357193	17,800956
+81	Hősök temploma	46,358684	17,80933
+23	Izzó utca	46,367375	17,816269
+40	Jutai út 24.	46,370216	17,768763
+20	Jutai út 24.	46,369582	17,7691
+40	Jutai út 45.	46,376924	17,763631
+20	Jutai út 45.	46,376979	17,763452
+90	Jókai liget	46,351282	17,791004
+51	Jókai liget	46,352407	17,791416
+41	Jókai Mór utca	46,345777	17,787096
+27	Kométa, forduló	46,35794	17,822927
+31	Kapoli Antal utca	46,34767	17,763283
+33	Kapoli Antal utca	46,347348	17,763343
+23	Kaposfüred, forduló	46,423027	17,775469
+47	Kaposfüred, központ	46,413964	17,778273
+23	Kaposfüred, központ	46,412993	17,778466
+23	Kaposfüred, vasútállomás	46,414147	17,759444
+47	Kaposfüredi utca 104.	46,408855	17,779574
+23	Kaposfüredi utca 104.	46,407546	17,779425
+47	Kaposfüredi utca 12.	46,402654	17,779395
+23	Kaposfüredi utca 12.	46,402763	17,779265
+23	Kaposfüredi utca 244.	46,419326	17,776414
+47	Kaposfüredi utca 244.	46,419543	17,776469
+71	Kaposszentjakab, forduló	46,359485	17,847302
+81	MATE Kaposvári Campus	46,383793	17,825318
+23	MATE Kaposvári Campus	46,384574	17,826038
+32	Kecelhegyalja utca	46,363473	17,761063
+13	Kecelhegyalja utca	46,363344	17,760872
+13	Kecelhegyi iskola, forduló	46,353502	17,765597
+20	Kenyérgyár utca 1.	46,363171	17,817059
+46	Kertbarát alsó	46,320039	17,784779
+42	Kertbarát alsó	46,32018	17,784827
+46	Kertbarát felső	46,325037	17,787107
+42	Kertbarát felső	46,325099	17,787296
+20	Kinizsi lakótelep	46,371841	17,782577
+23	Kinizsi lakótelep	46,371185	17,782559
+20	Klebersberg Kollégium	46,365072	17,808712
+85	Klebersberg Kollégium	46,36549	17,80739
+40	Koppány vezér utca	46,345093	17,77135
+13	Kőrösi Csoma Sándor utca	46,35863	17,760414
+32	Kőrösi Csoma Sándor utca	46,358606	17,760574
+13	Bethlen Gábor utca	46,352101	17,762101
+32	Bethlen Gábor utca	46,352206	17,762278
+42	Kórház	46,360166	17,797303
+31	Kölcsey Ferenc utca	46,352763	17,774302
+13	Kölcsey Ferenc utca	46,352776	17,774631
+12	Laktanya	46,378905	17,781319
+20	Laktanya	46,378412	17,781171
+90	Rómahegy	46,341024	17,810017
+51	Rómahegy	46,341062	17,809851
+12	Losonc köz	46,37013	17,787878
+20	Losonc köz	46,369495	17,787961
+32	Magyar Nobel-díjasok tere	46,34883	17,763207
+13	Magyar Nobel-díjasok tere	46,348639	17,763357
+23	Mező utcai csomópont	46,364103	17,813653
+27	Mező utcai csomópont	46,363212	17,812753
+20	Mező utcai csomópont	46,363225	17,813794
+85	Mező utcai csomópont	46,363877	17,812547
+13	Mátyás király utca, forduló	46,366095	17,758934
+71	Móricz Zsigmond utca	46,354357	17,836356
+26	METYX	46,365012	17,84891
+90	Nyár utca	46,340341	17,806877
+51	Nyár utca	46,340303	17,806774
+71	Nádasdi utca	46,354605	17,826834
+74	Nádasdi utca	46,355049	17,825072
+72	Nádasdi utca	46,35438	17,826076
+20	Pázmány Péter utca	46,365029	17,798892
+85	Pázmány Péter utca	46,365189	17,798452
+71	Pécsi utca 227.	46,357592	17,84016
+27	Pécsi úti vasúti átjáró	46,356125	17,818579
+74	Pécsi úti vasúti átjáró	46,355998	17,819936
+21	Raktár utca	46,37937	17,769204
+40	Raktár utca 2.	46,378248	17,763415
+20	Raktár utca 2.	46,378239	17,763239
+44	Rendőrség	46,364532	17,79381
+84	Répáspuszta	46,430001	17,845378
+84	Répáspuszta, forduló	46,429769	17,840569
+45	Rózsa utca	46,34628	17,779406
+40	Rózsa utca	46,346287	17,779586
+12	Sopron utca	46,375536	17,785775
+41	Szegfű utca	46,345588	17,783641
+44	Szent Imre utca 13.	46,360182	17,793887
+44	Szent Imre utca 29.	46,361618	17,793905
+90	Szigetvári utca 139.	46,339928	17,801642
+51	Szigetvári utca 139.	46,33957	17,802037
+90	Szigetvári utca 6.	46,349038	17,794061
+51	Szigetvári utca 6.	46,349132	17,794131
+90	Szigetvári utca 62.	46,345523	17,796833
+51	Szigetvári utca 62.	46,345614	17,796836
+44	Széchenyi tér	46,356925	17,794208
+46	Szőlőhegy	46,31275	17,786045
+42	Szőlőhegy	46,312868	17,786077
+42	Tallián Gyula utca 4.	46,357138	17,797294
+42	Tallián Gyula utca 56.	46,362753	17,797225
+42	Tallián Gyula utca 82.	46,364616	17,79722
+20	Toldi lakónegyed	46,367263	17,782616
+23	Toldi lakónegyed	46,367425	17,782417
+31	Tompa Mihály utca	46,353735	17,778588
+13	Tompa Mihály utca	46,35367	17,778673
+83	Toponár, Kányádi Sándor utca	46,396203	17,845349
+81	Toponár, orci elágazás	46,394286	17,833528
+83	Toponár, orci elágazás	46,394726	17,83441
+82	Toponár, Orci út	46,395331	17,841597
+83	Toponár, Orci út	46,395364	17,841462
+82	Toponár, Szabó Pál utca	46,392558	17,844539
+81	Toponár, forduló	46,407837	17,836782
+81	Toponár, posta	46,390546	17,827728
+81	Toponári út 182.	46,402009	17,83414
+81	Toponári út 238.	46,405217	17,835289
+46	Táncsics Mihály utca	46,345623	17,787408
+42	Táncsics Mihály utca	46,345519	17,787428
+40	Tóth Árpád utca	46,371914	17,767523
+20	Tóth Árpád utca	46,371312	17,767801
+42	Töröcske, forduló	46,302464	17,78166
+13	Vasút köz	46,363938	17,770323
+20	Vasút köz	46,363734	17,770505
+42	Vasútállomás	46,352875	17,796183
+20	Videoton	46,363912	17,820903
+61	Vikár Béla utca	46,349924	17,812306
+23	Villamossági Gyár	46,377722	17,823765
+91	Virág utca	46,358412	17,803879
+47	Volán-telep	46,390372	17,779284
+23	Volán-telep	46,389625	17,779158
+71	Várhegy feljáró	46,359291	17,843788
+62	Virágfürdő	46,351408	17,797215
+13	Kanizsai utca	46,363127	17,776987
+20	Kanizsai utca	46,363393	17,779188
+91	Vöröstelek utca	46,364164	17,799972
+46	Zichy Mihály utca	46,341627	17,789211
+42	Zichy Mihály utca	46,342097	17,789029
+12	Zárda utca	46,358799	17,787706
+42	ÁNTSZ	46,365167	17,789067
+20	ÁNTSZ	46,364997	17,789283
+31	Állatkórház	46,35211	17,771331
+13	Állatkórház	46,352069	17,771433
+23	Kaposfüred, Állomás utca	46,413195	17,762911
+20	Nagyszeben utca	46,373199	17,787101
+72	Nap utca	46,350378	17,829036
+91	Pázmány Péter utca 1.	46,361024	17,801277
+44	Autóbusz-állomás	46,354155	17,790159
+31	Autóbusz-állomás	46,354098	17,790477
+45	Autóbusz-állomás	46,354032	17,790819
+12	Autóbusz-állomás	46,353964	17,791172
+61	Autóbusz-állomás	46,354133	17,790753
+86	Autóbusz-állomás	46,354181	17,790499
+43	Autóbusz-állomás	46,354078	17,791032
+86	Cabero	46,364415	17,856994
+86	Kaposvári Szennyvíztelep	46,36118	17,871696
+44	Rákóczi tér	46,353589	17,794874
+46	Autóbusz-állomás	46,353386	17,792458
+81	Autóbusz-állomás	46,353324	17,792809
+13	Autóbusz-állomás	46,353259	17,793124
+44	Kapostüskevár	46,365638	17,77339
+20	Raktár utca	46,37944	17,768667
+70	Zöld Fűtőmű	46,381822	17,780806
+71	Zöld Fűtőmű	46,381346	17,780679
+13	Corso Bevásárlóközpont	46,355095	17,78585
+13	Berzsenyi utca 2.	46,356493	17,785371
+74	Cukorgyár köz	46,357737	17,810203
+71	Cukorgyár köz	46,35766	17,809829
