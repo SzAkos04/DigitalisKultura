@@ -22,7 +22,7 @@
 | 25maj           | Nyílt nap               | Kész    |
 | 25okt           | Fórum                   | Kész    |
 | 26maj           | Taxitársaság            | Kész    |
-| 26maj           | Kalória                 | Hiányos |
+| 26maj           | Kalória                 | Kész    |
 
 ## Excel
 
