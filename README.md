@@ -18,7 +18,7 @@
 | --------------- | ----------------------- | ------- |
 | 23okt           | Kultúrtörténet          | Hiányos |
 | 24maj           | Ingatlanközvetítő iroda | Hiányos |
-| 24okt           | Asztalitenisz           | Hiányos |
+| 24okt           | Asztalitenisz           | Kesz    |
 | 25maj           | Nyílt nap               | Kész    |
 | 25okt           | Fórum                   | Kész    |
 | 26maj           | Taxitársaság            | Kész    |
