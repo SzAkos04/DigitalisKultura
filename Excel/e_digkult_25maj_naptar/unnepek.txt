@@ -1,0 +1,14 @@
+Ünnepnapok
+	hó	nap
+Újév	1	1
+1848-as forradalom	3	15
+Nagypéntek
+Húsvéthétfő
+Munka ünnepe	5	1
+Pünkösdhétfő
+Államalapítás ünnepe	8	20
+56-os forradalom ünnepe	10	23
+Mindenszentek	11	1
+Szenteste	12	24
+Karácsony	12	25
+Karácsony	12	26
