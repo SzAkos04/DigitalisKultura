@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cheatsheets/Excel.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Excel"
             }
           }
         ]
@@ -205,21 +205,20 @@
   },
   "active": "f24978e88737e65a",
   "lastOpenFiles": [
+    "Cheatsheets/SQL.md",
+    "README.md",
+    "Cheatsheets/Excel.md",
     "C++/e_digkult_26maj_mrz-kod/feladat.pdf",
     "C++/e_digkult_26maj_mrz-kod/mrz.cpp~",
     "C++/e_digkult_26maj_mrz-kod/mrz",
     "C++/e_digkult_26maj_mrz-kod/mrz.cpp",
-    "README.md",
     "Excel/e_digkult_26maj_a-magyar-valogatott-merkozesei/feladat.pdf",
     "C++/e_digkult_26maj_mrz-kod/e_digkultma_26maj_fl-15-18.pdf",
     "SQL/e_digkult_26maj_kaloria/feladat.pdf",
     "SQL/e_digkult_26maj_kaloria/e_digkultma_26maj_fl-12-14.pdf",
     "Excel/e_digkult_26maj_a-magyar-valogatott-merkozesei/e_digkultma_26maj_fl-8-11.pdf",
     "e_digkultma_26maj_fl-8-11.pdf",
-    "e_digkultma_26maj_fl-12-14.pdf",
-    "Cheatsheets/Excel.md",
     "Excel/e_digkult_23okt_dronreptetes/iranytu.png",
-    "Cheatsheets/SQL.md",
     "Welcome.md"
   ]
 }

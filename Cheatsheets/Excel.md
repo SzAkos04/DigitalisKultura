@@ -1,5 +1,26 @@
 # Excel Cheatsheet — emelt szintű digitális kultúra érettségi
 
+## Tartalomjegyzék
+
+- [[#1. Hivatkozások — relatív, abszolút, vegyes]]
+- [[#2. Logikai függvények]]
+- [[#3. Keresőfüggvények]]
+- [[#4. Összesítő (aggregáló) függvények]]
+- [[#5. Szövegfüggvények]]
+- [[#6. Dátum- és időfüggvények]]
+- [[#7. Matematikai / kerekítő függvények]]
+- [[#8. Statisztikai rangsor-függvények]]
+- [[#9. Feltételes formázás (Conditional Formatting)]]
+- [[#10. Adatérvényesítés (Data Validation)]]
+- [[#11. Rendezés és szűrés]]
+- [[#12. Kimutatás (Pivot tábla) — lépésről lépésre]]
+- [[#13. Diagram létrehozása — lépésről lépésre]]
+- [[#14. Elnevezett tartományok (Named Ranges)]]
+- [[#15. Lapvédelem és munkafüzet-védelem]]
+- [[#16. Nézet és nyomtatás]]
+- [[#17. Hasznos billentyűparancsok]]
+- [[#18. Gyakori hibák — gyorslista ellenőrzéshez]]
+
 ---
 
 ## 1. Hivatkozások — relatív, abszolút, vegyes
