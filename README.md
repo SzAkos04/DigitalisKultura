@@ -27,7 +27,7 @@
 | 24maj           | Magyar királyok         | Hiányos |
 | 24okt           | Asztalitenisz           | Kesz    |
 | 25maj           | Nyílt nap               | Kész    |
-| 25maj           | Színházi bemutatók      | Hiányos |
+| 25maj           | Színházi bemutatók      | Kész    |
 | 25okt           | Fórum                   | Kész    |
 | 26maj           | Taxitársaság            | Kész    |
 | 26maj           | Kalória                 | Kész    |
