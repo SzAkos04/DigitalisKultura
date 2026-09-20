@@ -24,7 +24,7 @@
 | 23maj           | Szinkron                | Hiányos |
 | 23okt           | Kultúrtörténet          | Hiányos |
 | 24maj           | Ingatlanközvetítő iroda | Hiányos |
-| 24maj           | Magyar királyok         | Hiányos |
+| 24maj           | Magyar királyok         | Kesz    |
 | 24okt           | Asztalitenisz           | Kesz    |
 | 25maj           | Nyílt nap               | Kész    |
 | 25maj           | Színházi bemutatók      | Kész    |
