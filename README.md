@@ -20,7 +20,7 @@
 
 | Érettségi ideje | Feladat neve            | Státusz |
 | --------------- | ----------------------- | ------- |
-| 22okt           | Állóképesség            | Hiányos |
+| 22okt           | Állóképesség            | Kész    |
 | 23maj           | Szinkron                | Hiányos |
 | 23okt           | Kultúrtörténet          | Hiányos |
 | 24maj           | Ingatlanközvetítő iroda | Hiányos |
