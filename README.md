@@ -21,11 +21,11 @@
 | Érettségi ideje | Feladat neve            | Státusz |
 | --------------- | ----------------------- | ------- |
 | 22okt           | Állóképesség            | Kész    |
-| 23maj           | Szinkron                | Hiányos |
+| 23maj           | Szinkron                | Kész    |
 | 23okt           | Kultúrtörténet          | Hiányos |
 | 24maj           | Ingatlanközvetítő iroda | Hiányos |
-| 24maj           | Magyar királyok         | Kesz    |
-| 24okt           | Asztalitenisz           | Kesz    |
+| 24maj           | Magyar királyok         | Kész    |
+| 24okt           | Asztalitenisz           | Kész    |
 | 25maj           | Nyílt nap               | Kész    |
 | 25maj           | Színházi bemutatók      | Kész    |
 | 25okt           | Fórum                   | Kész    |
