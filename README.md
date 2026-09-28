@@ -39,7 +39,7 @@
 | 22okt           | Dobogókő                       | Hiányos |
 | 23maj           | Adóazonosító jel               | Hiányos |
 | 23okt           | Drónreptetés                   | Hiányos |
-| 24maj           | Lámpák                         | Hiányos |
+| 24maj           | Lámpák                         | Kész    |
 | 24maj           | Ballagás                       | Hiányos |
 | 24okt           | Bolygópályák                   | Hiányos |
 | 25maj           | Síparadicsomok                 | Hiányos |
