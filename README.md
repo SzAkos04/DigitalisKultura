@@ -5,7 +5,7 @@
 | Érettségi ideje | Feladat neve       | Státusz |
 | --------------- | ------------------ | ------- |
 | 22okt           | Virágágyások       | Hiányos |
-| 23maj           | Ütemezés           | Hiányos |
+| 23maj           | Ütemezés           | Kész    |
 | 23okt           | Reklám             | Kész    |
 | 24maj           | Beléptető rendszer | Kész    |
 | 24maj           | Kráterek           | Hiányos |
