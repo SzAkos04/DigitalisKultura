@@ -4,7 +4,7 @@
 
 | Érettségi ideje | Feladat neve       | Státusz |
 | --------------- | ------------------ | ------- |
-| 22okt           | Virágágyások       | Hiányos |
+| 22okt           | Virágágyások       | Kész    |
 | 23maj           | Ütemezés           | Kész    |
 | 23okt           | Reklám             | Kész    |
 | 24maj           | Beléptető rendszer | Kész    |
@@ -36,7 +36,7 @@
 
 | Érettségi ideje | Feladat neve                   | Státusz |
 | --------------- | ------------------------------ | ------- |
-| 22okt           | Dobogókő                       | Hiányos |
+| 22okt           | Dobogókő                       | Kész    |
 | 23maj           | Adóazonosító jel               | Hiányos |
 | 23okt           | Drónreptetés                   | Hiányos |
 | 24maj           | Lámpák                         | Kész    |
