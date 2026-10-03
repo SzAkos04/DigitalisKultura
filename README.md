@@ -23,7 +23,7 @@
 | 22okt           | Állóképesség            | Kész    |
 | 23maj           | Szinkron                | Kész    |
 | 23okt           | Kultúrtörténet          | Hiányos |
-| 24maj           | Ingatlanközvetítő iroda | Hiányos |
+| 24maj           | Ingatlanközvetítő iroda | Kész    |
 | 24maj           | Magyar királyok         | Kész    |
 | 24okt           | Asztalitenisz           | Kész    |
 | 25maj           | Nyílt nap               | Kész    |
