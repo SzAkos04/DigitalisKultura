@@ -8,7 +8,7 @@
 | 23maj           | Ütemezés           | Kész    |
 | 23okt           | Reklám             | Kész    |
 | 24maj           | Beléptető rendszer | Kész    |
-| 24maj           | Kráterek           | Hiányos |
+| 24maj           | Kráterek           | Kész    |
 | 24okt           | Autók mozgása      | Kész    |
 | 25maj           | Könyvkiadás        | Kész    |
 | 25maj           | ASCII-rajzok       | Hiányos |
