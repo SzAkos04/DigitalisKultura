@@ -11,7 +11,7 @@
 | 24maj           | Kráterek           | Kész    |
 | 24okt           | Autók mozgása      | Kész    |
 | 25maj           | Könyvkiadás        | Kész    |
-| 25maj           | ASCII-rajzok       | Hiányos |
+| 25maj           | ASCII-rajzok       | Kész    |
 | 25okt           | Sebesség           | Kész    |
 | 26maj           | Városi autózás     | Kész    |
 | 26maj           | MRZ kód            | Kész    |
