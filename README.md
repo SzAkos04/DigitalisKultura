@@ -50,7 +50,7 @@
 
 ## Cheatsheets
 
-- [[./Cheatsheets/erettsegi_segedlet.pdf]]
+- [[Cheatsheets/erettsegi_segedlet.pdf]]
 - [[Cheatsheets/SQL]]
 - [[Cheatsheets/Excel]]
-- [[./Cheatsheets/szobeli_felkeszito.pdf]]
+- [[Cheatsheets/szobeli_felkeszito.pdf]]
