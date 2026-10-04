@@ -1,0 +1,5 @@
+﻿Alsó korhatár	Korcsoport		Táv (km)	Nevezési díj (Ft)		Verseny éve
+0	Ifjúsági		5	2000		2025
+18	Felnőtt		10	3500		
+40	Veterán		21	6000		
+60	Szenior					

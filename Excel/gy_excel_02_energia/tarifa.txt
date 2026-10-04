@@ -1,0 +1,4 @@
+﻿Típus	Mértékegység	Egységár (Ft)	Alapdíj (Ft/hó)
+áram	kWh	68,5	1250
+gáz	m3	130	800
+víz	m3	640	950

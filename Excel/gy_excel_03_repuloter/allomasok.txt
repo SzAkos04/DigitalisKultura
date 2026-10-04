@@ -1,0 +1,13 @@
+﻿Kód	Város	Ország	Távolság (km)
+VIE	Bécs	Ausztria	236
+MUC	München	Németország	460
+FRA	Frankfurt	Németország	760
+LHR	London	Egyesült Királyság	1460
+CDG	Párizs	Franciaország	1240
+FCO	Róma	Olaszország	900
+BCN	Barcelona	Spanyolország	1500
+IST	Isztambul	Törökország	1130
+WAW	Varsó	Lengyelország	550
+PRG	Prága	Csehország	440
+ZRH	Zürich	Svájc	820
+ATH	Athén	Görögország	1110

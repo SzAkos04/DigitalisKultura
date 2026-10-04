@@ -1,0 +1,5 @@
+﻿Szolgálati évek alsó határa	Pótlék		Paraméter	Érték
+0	0		Vizsgálat napja	2026.01.01.
+3	0,03		SZJA-kulcs	0,15
+6	0,06		TB-járulék	0,185
+11	0,1		Gyermekkedvezmény (Ft/gyermek)	10000

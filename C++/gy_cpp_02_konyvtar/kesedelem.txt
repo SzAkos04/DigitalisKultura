@@ -1,0 +1,12 @@
+105;Horváth Gergő;3920
+101;Kiss Bianka;3440
+102;Tóth Csaba;2960
+104;Varga Eszter;2960
+108;Papp Júlia;2800
+109;Farkas Kornél;2760
+100;Nagy Ádám;2560
+103;Szabó Dóra;2280
+107;Balogh István;2240
+106;Molnár Hanna;1480
+110;Juhász Lilla;1160
+111;Oláh Mátyás;600
